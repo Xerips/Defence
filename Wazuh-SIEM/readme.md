@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-- [Why Wazuh?]()https://github.com/Xerips/Defence/tree/main/Wazuh-SIEM#why-wazuh
+- [Why Wazuh?](https://github.com/Xerips/Defence/tree/main/Wazuh-SIEM#why-wazuh)
 - [Documentation Review](https://github.com/Xerips/Defence/tree/main/Wazuh-SIEM#documentation-review-getting-started)
 - [Set'er up!](https://github.com/Xerips/Defence/tree/main/Wazuh-SIEM#seter-up)
 - [Kicking The Tires](https://github.com/Xerips/Defence/tree/main/Wazuh-SIEM#kicking-the-tires)
